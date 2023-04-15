@@ -1,3 +1,8 @@
+# Intructions on running the codes:
+1) Download the project jupyter notebook file.
+2) Download the given csv file
+3) Upload or open both jupyter notebook file and the csv file to Anaconda or Google Colab or any other python IDE.
+4) Run the codes, make sure that the csv file is uploaded properly or the proper fila path for the csv file is given.
 # FIFA-World-Cup-2022-player-s-performance-analysis
 # In last year, FIFA World Cup, which is called the Greatest Show on Earth took place from 20th November 2022 to 18th December 2022 which was hosted by Qatar where 32 teams from all over the world took part in it to win the World Cup and finally Argentina won this competition by beating France football team.
 # I have found out Top 10 players from each category like Strikers, Midfield players, Defensive players and Goalkeepers to suggest football clubs which player's to recruit in their teams. I have also answered some of the debated and most discussed topics about this World cup to the football fans from Data Analytics point of views.
