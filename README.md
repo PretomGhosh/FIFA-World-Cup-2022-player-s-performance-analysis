@@ -1,3 +1,14 @@
+<img width="653" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/38890ab7-2546-430f-8f70-56314b476cb4">
+<img width="564" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/b7469700-5ad8-45fb-951f-80b06f8d4f13">
+<img width="638" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/c0999ba3-4beb-45de-9570-77387ef3dc8e">
+<img width="706" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/9e4d2536-06e3-40e4-a8f7-382e4c3c2486">
+<img width="723" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/a4f9c76c-4258-4f4f-a595-282a59c953e0">
+<img width="616" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/b7318538-db83-4baf-85b8-73ad70d81132">
+<img width="722" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/781147c7-a41b-46a9-998a-e4618b5e8dfc">
+<img width="737" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/8c19dfc4-110a-4388-a06d-624606229063">
+<img width="813" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/94007b00-984e-4ea3-9838-b80a116cb10c">
+<img width="662" alt="image" src="https://github.com/PretomGhosh/FIFA-World-Cup-2022-player-s-performance-analysis/assets/34418713/0d9b26cb-e3e4-410c-ab17-fa75e987e11c">
+
 # Intructions on running the codes:
 1) Download the project jupyter notebook file.
 2) Download the given csv file
